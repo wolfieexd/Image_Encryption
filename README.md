@@ -20,9 +20,10 @@ This project implements a Java-based image encryption and transfer system. It in
 ## 📁 Project Structure
 ```
 IMAGE ENCRYPTION/
-├── Image Encryption Final Report.pdf
-├── REVIEW-1.pptx
-├── REVIEW-2.pptx
+├── Documentations
+    ├── Image Encryption Final Report.pdf
+    ├── REVIEW-1.pptx
+    ├── REVIEW-2.pptx
 └── image encryption/
     ├── ClientGUI.java
     ├── EnhancedImageEncryption.java
