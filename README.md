@@ -21,9 +21,9 @@ This project implements a Java-based image encryption and transfer system. It in
 ```
 IMAGE ENCRYPTION/
 ├── Documentations
-|    ├── Image Encryption Final Report.pdf
-|    ├── REVIEW-1.pptx
-|    ├── REVIEW-2.pptx
+|   ├── Image Encryption Final Report.pdf
+|   ├── REVIEW-1.pptx
+|   ├── REVIEW-2.pptx
 └── image encryption/
     ├── ClientGUI.java
     ├── EnhancedImageEncryption.java
