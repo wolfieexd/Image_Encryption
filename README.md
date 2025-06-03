@@ -19,7 +19,7 @@ This project implements a Java-based image encryption and transfer system. It in
 
 ## 📁 Project Structure
 ```
-APP project SEM-3/
+IMAGE ENCRYPTION/
 ├── Image Encryption Final Report.pdf
 ├── REVIEW-1.pptx
 ├── REVIEW-2.pptx
