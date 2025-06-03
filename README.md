@@ -75,7 +75,7 @@ java -cp ".:lib/*" ClientGUI
   - commons-pool2-2.9.0
 
 ## 👨‍💻 Authors
-Sujan S 
+Sujan S    
 🎓 SRM Institute of Science and Technology    
 📧 [sujans1411@gmail.com.com]   
 🔗 [Portfolio](https://wolfieexd.github.io/portfolio/)
