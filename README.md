@@ -78,7 +78,7 @@ java -cp ".:lib/*" ClientGUI
 ## 👨‍💻 Authors
 Sujan S    
 🎓 SRM Institute of Science and Technology    
-📧 [sujans1411@gmail.com.com]   
+📧 [sujans1411@gmail.com]   
 🔗 [Portfolio](https://wolfieexd.github.io/portfolio/)
 
 
